@@ -1,7 +1,7 @@
 # linkedin_api
 Linkedin API for Python
 
-This notebook (SAMPLE CODE) aims to access data from LinkedIn by using an open source library by Tom Quirk.
+This notebook (tomquirk_linkedin_api.ipynb) aims to access data from LinkedIn by using an open source library by Tom Quirk.
 
 See Tom Quirk's open source library here: https://github.com/tomquirk/linkedin-api
 
